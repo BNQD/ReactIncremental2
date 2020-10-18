@@ -36,7 +36,7 @@ const App = () => {
 			</p>
     </div>
 		<div id="body" className ="center">
-			<button onClick = {() => setCoins (coins + 1)}>
+			<button onClick = {() => setCoins (coins + 1000)}>
 				Click
 			</button>
 			<BuyAmountButtons setBuyAmount={setBuyAmount}/>

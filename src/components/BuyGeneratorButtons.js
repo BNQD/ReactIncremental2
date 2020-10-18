@@ -22,17 +22,11 @@ const BuyGeneratorButtons = (props) => {
 	
 	const increaseGenerator = (type, amount) => {	
 		if (type === 1) {
-			if (amount !== 1){
-				//Get total cost of increase gen[type] by amount
-				const gen_total_cost = genOneTotalCost(type, amount)
-			}
-			else {
 				const gen_total_cost = genOneTotalCost(type, amount)
 				if (props.coins >= gen_total_cost){
 						props.setCoins (props.coins - gen_total_cost)
-						props.setGenerators ({...props.generators, 1:props.generators[1]+1})
+						props.setGenerators ({...props.generators, 1:props.generators[1]+amount})
 						updatePerSecond()
-				}
 			}
 		}
 		
