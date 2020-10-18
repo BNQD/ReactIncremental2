@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ReactIncremental2/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ReactIncremental2/static/js/main.5dc5e1eb.chunk.js",
+    "main.js.map": "/ReactIncremental2/static/js/main.5dc5e1eb.chunk.js.map",
+    "runtime-main.js": "/ReactIncremental2/static/js/runtime-main.2a87ef47.js",
+    "runtime-main.js.map": "/ReactIncremental2/static/js/runtime-main.2a87ef47.js.map",
+    "static/js/2.f4fdec99.chunk.js": "/ReactIncremental2/static/js/2.f4fdec99.chunk.js",
+    "static/js/2.f4fdec99.chunk.js.map": "/ReactIncremental2/static/js/2.f4fdec99.chunk.js.map",
+    "index.html": "/ReactIncremental2/index.html",
+    "precache-manifest.c3060b2d48fa7aca13bd73ad0925d8f5.js": "/ReactIncremental2/precache-manifest.c3060b2d48fa7aca13bd73ad0925d8f5.js",
+    "service-worker.js": "/ReactIncremental2/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ReactIncremental2/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.f4fdec99.chunk.js.LICENSE.txt": "/ReactIncremental2/static/js/2.f4fdec99.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ReactIncremental2/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2a87ef47.js",
+    "static/js/2.f4fdec99.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.5dc5e1eb.chunk.js"
+  ]
+}
